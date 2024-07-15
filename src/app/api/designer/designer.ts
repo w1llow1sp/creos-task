@@ -1,4 +1,3 @@
-import {s} from "vite/dist/node/types.d-aGj9QkWt";
 export interface Issue {
     "key": string
     "date_created":string
